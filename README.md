@@ -1,0 +1,1 @@
+Building a basic recipe HTML website while teaching myself coding from The Odin Project.
